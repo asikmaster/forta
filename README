@@ -2,6 +2,6 @@ Update for forta-network node
 
 For update upen commad line as root user and run script
 
-wget https://raw.githubusercontent.com/asikmaster/forta-network/main/update.sh && chmod +x update.sh ./update.sh
+wget https://raw.githubusercontent.com/asikmaster/forta-network/main/update.sh && chmod +x update.sh /bin/bash update.sh
 
 all update will take 2-3 min
